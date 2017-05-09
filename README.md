@@ -13,7 +13,7 @@ It is also my first time to use MySQL as database.
 
 <h3>Features</h3>
 <ul>
-<li>Procedural PHP</li>
+<li>PHP</li>
 <li>MySQL as database for the places and SQL queries</li>
 <li>Google Maps API</li>
 <li>Single-page feature using AJAX</li>
