@@ -5,6 +5,8 @@ My concept of this project came from <a href="http://magicseaweed.com/">Magicsea
 
 It is also my first time to use MySQL as database.
 
+<a href="http://regineblanco.esy.es/surphs-up/" target="_blank">Here</a>'s a live version of the app.
+
 <h3>How to Use SurPH's Up</h3>
 
  Viewers can "Just Peep" at the app and click on pinned spots on the Philippine map. After which, they will be able to see a brief description of the spot, its address, pictures, and a list of places under "Surf Spots", "Lodgings", and "Food Finds". They can click on those places, and more description appears about them. As logged in users, they can add and delete places, and edit the description as well.
